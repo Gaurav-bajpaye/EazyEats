@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "server": "nodemon server.js",
-    "build": "intall i"
+    "build": "npm i"
   },
   "author": "",
   "license": "ISC",
